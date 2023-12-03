@@ -10,4 +10,3 @@ data - исходные данные + результат (price_schedule_df.par
 docs - оформленный отчет по решению в форматах .docx и .pdf
 
 notebooks - решение .ipynb
-hjk
