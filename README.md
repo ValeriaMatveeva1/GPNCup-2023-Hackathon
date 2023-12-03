@@ -1,4 +1,4 @@
-# GPNCup-2023-Hackathon
+# GPNCup 2023 Hackathon
 
 ## Условие кейса
 
